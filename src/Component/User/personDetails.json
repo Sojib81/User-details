@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "name": "Leanne Graham",
+    "username": "Bret",
+    "bio": "John is a software developer with over 10 years of experience in building web applications.",
+    "email": "Sincere@april.biz",
+    "address": "Dhanmondi,Dhaka",
+    "phone": "1-770-736-8031 x56442",
+    "website": "hildegard.org",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/415oziPFA0L._AC_US218_.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Leanne Lilly",
+    "username": "Bret",
+    "bio": "John is a software developer with over 10 years of experience in building web applications.",
+    "email": "Sincere@april.biz",
+    "address": "Dhanmondi,Dhaka",
+    "phone": "1-770-736-8031 x56442",
+    "website": "hildegard.org",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/51mEVhwXGKL._AC_US218_.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Leanne Rose",
+    "username": "Bret",
+    "bio": "John is a software developer with over 10 years of experience in building web applications.",
+    "email": "Sincere@april.biz",
+    "address": "Dhanmondi,Dhaka",
+    "phone": "1-770-736-8031 x56442",
+    "website": "hildegard.org",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/41HfDkXXyeL._AC_US218_.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Leanne Lotous",
+    "username": "Bret",
+    "bio": "John is a software developer with over 10 years of experience in building web applications.",
+    "email": "Sincere@april.biz",
+    "address": "Dhanmondi,Dhaka",
+    "phone": "1-770-736-8031 x56442",
+    "website": "hildegard.org",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/41HfDkXXyeL._AC_US218_.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Leanne Hibiscus",
+    "username": "Bret",
+    "bio": "John is a software developer with over 10 years of experience in building web applications.",
+    "email": "Sincere@april.biz",
+    "address": "Dhanmondi,Dhaka",
+    "phone": "1-770-736-8031 x56442",
+    "website": "hildegard.org",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/417yCr3mvYL._AC_US218_.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Leanne TubeRose",
+    "username": "Bret",
+    "bio": "John is a software developer with over 10 years of experience in building web applications.",
+    "email": "Sincere@april.biz",
+    "address": "Dhanmondi,Dhaka",
+    "phone": "1-770-736-8031 x56442",
+    "website": "hildegard.org",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/31inMpRxCFL._AC_US218_.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Leanne Marigold",
+    "username": "Bret",
+    "bio": "John is a software developer with over 10 years of experience in building web applications.",
+    "email": "Sincere@april.biz",
+    "address": "Dhanmondi,Dhaka",
+    "phone": "1-770-736-8031 x56442",
+    "website": "hildegard.org",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/51GRACqhHbL._AC_US218_.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Leanne Kadam",
+    "username": "Bret",
+    "bio": "John is a software developer with over 10 years of experience in building web applications.",
+    "email": "Sincere@april.biz",
+    "address": "Dhanmondi,Dhaka",
+    "phone": "1-770-736-8031 x56442",
+    "website": "hildegard.org",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/41v2oytxs9L._AC_US218_.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Leanne Jasmine",
+    "username": "Bret",
+    "bio": "John is a software developer with over 10 years of experience in building web applications.",
+    "email": "Sincere@april.biz",
+    "address": "Dhanmondi,Dhaka",
+    "phone": "1-770-736-8031 x56442",
+    "website": "hildegard.org",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/41PUHRFGpvL._AC_US218_.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Leanne SunFlower",
+    "username": "Bret",
+    "bio": "John is a software developer with over 10 years of experience in building web applications.",
+    "email": "Sincere@april.biz",
+    "address": "Dhanmondi,Dhaka",
+    "phone": "1-770-736-8031 x56442",
+    "website": "hildegard.org",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/51-2Z4ZWimL._AC_US218_.jpg"
+  }
+]

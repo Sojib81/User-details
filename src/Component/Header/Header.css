@@ -1,0 +1,18 @@
+nav {
+  background-color: #96d2ee;
+  line-height: 40px;
+  text-align: left;
+}
+nav a {
+  color: #fff;
+  font-size: 20px;
+  padding: 10px;
+
+  margin: 10px;
+  margin-right: 40px;
+  text-decoration: none;
+}
+nav a:hover {
+  background-color: azure;
+  color: black;
+}

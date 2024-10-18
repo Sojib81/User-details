@@ -1,0 +1,18 @@
+.user-details-container {
+  border-bottom: 1px solid cyan;
+  margin-right: 5px;
+}
+.add-btn {
+  margin-bottom: 10px;
+  line-height: 40px;
+  width: 180px;
+  font-size: 25px;
+  background-color: rgba(191, 234, 33, 0.929);
+  color: #fff;
+  border-radius: 5px;
+  border: 2px solid yellow;
+  cursor: pointer;
+}
+.add-btn:hover {
+  background-color: rgb(124, 230, 230);
+}
